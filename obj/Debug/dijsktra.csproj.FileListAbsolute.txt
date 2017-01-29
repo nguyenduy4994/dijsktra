@@ -1,0 +1,15 @@
+D:\solution\dijsktra\dijsktra\bin\Debug\dijsktra.exe.config
+D:\solution\dijsktra\dijsktra\obj\Debug\dijsktra.csprojResolveAssemblyReference.cache
+D:\solution\dijsktra\dijsktra\bin\Debug\dijsktra.exe
+D:\solution\dijsktra\dijsktra\bin\Debug\dijsktra.pdb
+D:\solution\dijsktra\dijsktra\obj\Debug\dijsktra.exe
+D:\solution\dijsktra\dijsktra\obj\Debug\dijsktra.pdb
+F:\solution\Old\dijsktra\dijsktra\bin\Debug\dijsktra.exe.config
+F:\solution\Old\dijsktra\dijsktra\obj\Debug\dijsktra.exe
+F:\solution\Old\dijsktra\dijsktra\obj\Debug\dijsktra.pdb
+F:\solution\Old\dijsktra\dijsktra\bin\Debug\dijsktra.exe
+F:\solution\Old\dijsktra\dijsktra\bin\Debug\dijsktra.pdb
+F:\solution\Old\dijsktra\dijsktra\obj\Debug\dijsktra.csprojResolveAssemblyReference.cache
+E:\Projects\solution\Old\dijsktra\dijsktra\bin\Debug\dijsktra.exe.config
+E:\Projects\solution\Old\dijsktra\dijsktra\obj\Debug\dijsktra.exe
+E:\Projects\solution\Old\dijsktra\dijsktra\obj\Debug\dijsktra.pdb
